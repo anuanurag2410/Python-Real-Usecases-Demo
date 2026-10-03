@@ -1,0 +1,1001 @@
+id,name,description,category,calories,fat,carbs,price,is_available
+3000,Iced Coffee,Chilled coffee,Beverages,560,29,49,8.83,True
+3001,Coke,Carbonated beverage,Beverages,323,5,59,5.18,False
+3002,Chicken Nuggets,Bite-sized crispy chicken,Snacks,517,42,60,4.2,True
+3003,McVeggie,Veggie patty burger,Burger,367,6,62,3.98,False
+3004,Cheeseburger,Cheesy beef burger,Burger,207,13,15,5.98,False
+3005,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,770,10,14,6.22,False
+3006,McVeggie,Veggie patty burger,Burger,226,12,53,8.91,True
+3007,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,717,14,51,8.23,False
+3008,McFlurry Oreo,Ice cream with Oreo bits,Desserts,726,6,57,2.12,True
+3009,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,633,16,35,3.52,True
+3010,Strawberry Shake,Thick strawberry shake,Beverages,298,29,22,5.46,False
+3011,Iced Coffee,Chilled coffee,Beverages,737,29,51,3.23,True
+3012,Filet-O-Fish,Fish fillet sandwich,Burger,442,37,23,6.78,True
+3013,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,793,27,40,5.27,False
+3014,Grilled Chicken Salad,Grilled chicken on greens,Salads,566,26,52,2.2,False
+3015,McSpicy Paneer,Spicy paneer burger,Burger,216,45,60,1.72,True
+3016,Filet-O-Fish,Fish fillet sandwich,Burger,750,5,28,3.18,False
+3017,Grilled Chicken Salad,Grilled chicken on greens,Salads,722,37,40,7.74,True
+3018,McSpicy Paneer,Spicy paneer burger,Burger,269,38,64,4.76,False
+3019,Double Cheeseburger,Double beef with cheese,Burger,226,29,23,5.59,False
+3020,Coke,Carbonated beverage,Beverages,377,22,12,7.38,True
+3021,Double Cheeseburger,Double beef with cheese,Burger,401,26,65,6.44,False
+3022,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,787,38,52,1.21,False
+3023,Veg Wrap,Veg wrap with lettuce,Wraps,261,30,31,2.6,False
+3024,Fries,Crispy fries,Sides,535,21,32,2.58,True
+3025,Apple Pie,Fried apple pie,Desserts,448,12,31,7.65,False
+3026,Chicken Nuggets,Bite-sized crispy chicken,Snacks,537,31,22,7.57,True
+3027,Filet-O-Fish,Fish fillet sandwich,Burger,753,12,45,1.04,True
+3028,Fries,Crispy fries,Sides,205,10,38,2.88,False
+3029,Apple Pie,Fried apple pie,Desserts,611,19,36,1.27,False
+3030,Vanilla Cone,Soft vanilla cone,Desserts,672,28,69,4.0,False
+3031,Cheeseburger,Cheesy beef burger,Burger,395,5,65,3.01,False
+3032,McSpicy Paneer,Spicy paneer burger,Burger,503,37,12,3.32,False
+3033,McFlurry Oreo,Ice cream with Oreo bits,Desserts,320,17,69,7.65,True
+3034,Fries,Crispy fries,Sides,527,15,64,6.14,False
+3035,Strawberry Shake,Thick strawberry shake,Beverages,399,5,56,5.92,True
+3036,Cheeseburger,Cheesy beef burger,Burger,258,18,13,4.53,False
+3037,Double Cheeseburger,Double beef with cheese,Burger,680,40,59,4.64,False
+3038,Apple Pie,Fried apple pie,Desserts,410,6,64,6.28,True
+3039,McVeggie,Veggie patty burger,Burger,399,39,59,7.76,True
+3040,Iced Coffee,Chilled coffee,Beverages,759,36,65,2.22,False
+3041,Coke,Carbonated beverage,Beverages,432,17,56,6.79,True
+3042,Veg Wrap,Veg wrap with lettuce,Wraps,438,7,12,5.3,False
+3043,Big Mac,Classic burger with beef patties,Burger,202,40,23,7.76,False
+3044,McSpicy Paneer,Spicy paneer burger,Burger,553,18,58,6.65,True
+3045,Chicken Nuggets,Bite-sized crispy chicken,Snacks,291,45,15,2.79,True
+3046,Fries,Crispy fries,Sides,228,25,44,4.59,True
+3047,Veg Wrap,Veg wrap with lettuce,Wraps,325,35,51,7.05,True
+3048,McFlurry Oreo,Ice cream with Oreo bits,Desserts,779,23,68,3.82,True
+3049,Grilled Chicken Salad,Grilled chicken on greens,Salads,262,38,46,1.97,True
+3050,Vanilla Cone,Soft vanilla cone,Desserts,332,28,58,5.97,False
+3051,Fries,Crispy fries,Sides,416,10,15,7.1,True
+3052,Grilled Chicken Salad,Grilled chicken on greens,Salads,549,38,38,3.15,True
+3053,Double Cheeseburger,Double beef with cheese,Burger,790,41,26,7.66,True
+3054,Iced Coffee,Chilled coffee,Beverages,536,17,24,8.19,False
+3055,Vanilla Cone,Soft vanilla cone,Desserts,767,27,56,5.35,False
+3056,Big Mac,Classic burger with beef patties,Burger,339,30,45,3.01,False
+3057,Big Mac,Classic burger with beef patties,Burger,652,6,49,5.85,False
+3058,Apple Pie,Fried apple pie,Desserts,406,7,48,7.64,True
+3059,Apple Pie,Fried apple pie,Desserts,281,33,26,4.72,False
+3060,McSpicy Paneer,Spicy paneer burger,Burger,322,24,69,2.08,False
+3061,Iced Coffee,Chilled coffee,Beverages,676,10,10,8.48,False
+3062,Fries,Crispy fries,Sides,699,43,56,1.02,False
+3063,Fries,Crispy fries,Sides,441,26,52,2.88,False
+3064,Chicken Nuggets,Bite-sized crispy chicken,Snacks,387,23,22,8.74,False
+3065,Strawberry Shake,Thick strawberry shake,Beverages,280,6,40,7.88,False
+3066,McVeggie,Veggie patty burger,Burger,409,39,67,8.58,False
+3067,Fries,Crispy fries,Sides,604,12,41,6.26,True
+3068,Chicken Nuggets,Bite-sized crispy chicken,Snacks,573,20,21,3.84,True
+3069,Strawberry Shake,Thick strawberry shake,Beverages,709,13,20,2.41,False
+3070,Grilled Chicken Salad,Grilled chicken on greens,Salads,203,10,34,3.93,True
+3071,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,401,40,61,5.6,False
+3072,Fries,Crispy fries,Sides,204,20,35,2.01,True
+3073,Cheeseburger,Cheesy beef burger,Burger,215,14,17,5.87,True
+3074,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,516,41,15,7.38,True
+3075,McVeggie,Veggie patty burger,Burger,436,16,69,2.62,True
+3076,McChicken,Crispy chicken patty sandwich,Burger,412,36,29,8.95,False
+3077,Double Cheeseburger,Double beef with cheese,Burger,259,20,21,7.57,False
+3078,Cheeseburger,Cheesy beef burger,Burger,536,35,12,3.71,False
+3079,Cheeseburger,Cheesy beef burger,Burger,652,12,68,6.26,False
+3080,Egg McMuffin,Egg and cheese muffin,Breakfast,290,24,43,6.31,False
+3081,Double Cheeseburger,Double beef with cheese,Burger,667,39,15,6.59,False
+3082,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,394,25,36,6.24,True
+3083,Egg McMuffin,Egg and cheese muffin,Breakfast,797,36,31,1.13,True
+3084,Fries,Crispy fries,Sides,254,36,60,2.83,True
+3085,Iced Coffee,Chilled coffee,Beverages,371,38,26,2.35,False
+3086,Grilled Chicken Salad,Grilled chicken on greens,Salads,660,34,24,2.28,True
+3087,Egg McMuffin,Egg and cheese muffin,Breakfast,358,37,41,7.53,True
+3088,Apple Pie,Fried apple pie,Desserts,623,41,66,3.89,True
+3089,Fries,Crispy fries,Sides,375,43,59,3.01,True
+3090,Fries,Crispy fries,Sides,376,22,70,1.72,True
+3091,Iced Coffee,Chilled coffee,Beverages,416,40,43,7.08,False
+3092,Grilled Chicken Salad,Grilled chicken on greens,Salads,799,10,12,1.98,True
+3093,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,624,36,47,1.45,False
+3094,Fries,Crispy fries,Sides,255,14,31,5.93,True
+3095,Apple Pie,Fried apple pie,Desserts,628,5,64,2.1,False
+3096,McChicken,Crispy chicken patty sandwich,Burger,526,22,24,6.78,False
+3097,McFlurry Oreo,Ice cream with Oreo bits,Desserts,628,9,10,5.55,True
+3098,McSpicy Paneer,Spicy paneer burger,Burger,535,41,29,4.87,True
+3099,Iced Coffee,Chilled coffee,Beverages,290,7,66,5.27,True
+3100,Vanilla Cone,Soft vanilla cone,Desserts,205,15,23,7.95,True
+3101,McSpicy Paneer,Spicy paneer burger,Burger,284,29,61,2.95,True
+3102,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,412,19,66,3.71,False
+3103,McChicken,Crispy chicken patty sandwich,Burger,265,15,31,8.83,True
+3104,Chicken Nuggets,Bite-sized crispy chicken,Snacks,284,40,59,1.59,True
+3105,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,412,5,25,7.28,True
+3106,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,263,7,43,8.7,True
+3107,Strawberry Shake,Thick strawberry shake,Beverages,506,32,27,5.39,False
+3108,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,494,40,23,3.27,False
+3109,Chicken Nuggets,Bite-sized crispy chicken,Snacks,201,44,49,8.6,True
+3110,Iced Coffee,Chilled coffee,Beverages,266,18,21,3.28,True
+3111,McSpicy Paneer,Spicy paneer burger,Burger,552,39,51,1.42,False
+3112,Fries,Crispy fries,Sides,397,44,40,4.25,False
+3113,Chicken Nuggets,Bite-sized crispy chicken,Snacks,439,39,11,8.59,False
+3114,Chicken Nuggets,Bite-sized crispy chicken,Snacks,629,12,62,1.57,False
+3115,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,307,43,42,3.75,True
+3116,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,293,40,32,4.05,True
+3117,Iced Coffee,Chilled coffee,Beverages,585,28,43,6.92,False
+3118,Veg Wrap,Veg wrap with lettuce,Wraps,455,31,64,8.28,True
+3119,McSpicy Paneer,Spicy paneer burger,Burger,255,28,62,5.39,True
+3120,Grilled Chicken Salad,Grilled chicken on greens,Salads,257,25,34,7.55,False
+3121,Grilled Chicken Salad,Grilled chicken on greens,Salads,265,36,43,8.84,False
+3122,Vanilla Cone,Soft vanilla cone,Desserts,213,5,14,2.18,False
+3123,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,282,29,38,7.91,False
+3124,Iced Coffee,Chilled coffee,Beverages,385,22,58,8.45,False
+3125,McSpicy Paneer,Spicy paneer burger,Burger,764,42,57,6.71,True
+3126,Chicken Nuggets,Bite-sized crispy chicken,Snacks,325,8,51,4.93,True
+3127,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,340,9,53,3.0,False
+3128,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,296,21,35,5.41,False
+3129,Filet-O-Fish,Fish fillet sandwich,Burger,772,45,39,5.04,False
+3130,Grilled Chicken Salad,Grilled chicken on greens,Salads,289,17,30,5.03,True
+3131,Egg McMuffin,Egg and cheese muffin,Breakfast,789,6,30,7.72,False
+3132,McVeggie,Veggie patty burger,Burger,680,27,29,5.74,True
+3133,Chicken Nuggets,Bite-sized crispy chicken,Snacks,444,27,48,5.97,False
+3134,Strawberry Shake,Thick strawberry shake,Beverages,559,23,58,4.5,True
+3135,McSpicy Paneer,Spicy paneer burger,Burger,228,37,23,6.55,False
+3136,Veg Wrap,Veg wrap with lettuce,Wraps,514,16,55,8.31,True
+3137,Veg Wrap,Veg wrap with lettuce,Wraps,552,39,66,8.03,False
+3138,Cheeseburger,Cheesy beef burger,Burger,591,24,23,6.47,True
+3139,Apple Pie,Fried apple pie,Desserts,291,24,32,5.37,False
+3140,McFlurry Oreo,Ice cream with Oreo bits,Desserts,670,6,62,2.14,False
+3141,Strawberry Shake,Thick strawberry shake,Beverages,411,12,31,3.55,True
+3142,Double Cheeseburger,Double beef with cheese,Burger,595,8,23,3.9,False
+3143,Filet-O-Fish,Fish fillet sandwich,Burger,468,15,50,6.02,False
+3144,Vanilla Cone,Soft vanilla cone,Desserts,356,36,49,6.16,False
+3145,Iced Coffee,Chilled coffee,Beverages,589,33,28,1.99,True
+3146,Strawberry Shake,Thick strawberry shake,Beverages,603,8,38,6.03,True
+3147,Apple Pie,Fried apple pie,Desserts,237,33,30,8.0,True
+3148,McChicken,Crispy chicken patty sandwich,Burger,718,19,45,6.09,True
+3149,McFlurry Oreo,Ice cream with Oreo bits,Desserts,368,17,40,8.21,True
+3150,Cheeseburger,Cheesy beef burger,Burger,487,32,22,3.42,False
+3151,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,674,14,65,4.31,False
+3152,Double Cheeseburger,Double beef with cheese,Burger,791,32,25,7.53,True
+3153,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,786,25,39,8.16,False
+3154,Cheeseburger,Cheesy beef burger,Burger,628,36,39,8.14,False
+3155,Egg McMuffin,Egg and cheese muffin,Breakfast,399,30,30,7.05,False
+3156,Strawberry Shake,Thick strawberry shake,Beverages,641,15,58,5.21,False
+3157,Veg Wrap,Veg wrap with lettuce,Wraps,450,12,18,6.15,True
+3158,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,372,21,55,7.29,False
+3159,Cheeseburger,Cheesy beef burger,Burger,515,29,69,8.97,False
+3160,Apple Pie,Fried apple pie,Desserts,467,25,62,1.96,False
+3161,Vanilla Cone,Soft vanilla cone,Desserts,521,44,40,4.2,False
+3162,Cheeseburger,Cheesy beef burger,Burger,471,17,42,1.13,False
+3163,Big Mac,Classic burger with beef patties,Burger,260,6,23,1.08,True
+3164,McFlurry Oreo,Ice cream with Oreo bits,Desserts,485,24,11,2.51,True
+3165,Strawberry Shake,Thick strawberry shake,Beverages,710,14,14,1.25,True
+3166,Vanilla Cone,Soft vanilla cone,Desserts,619,25,30,7.07,False
+3167,McVeggie,Veggie patty burger,Burger,445,17,52,8.15,False
+3168,McChicken,Crispy chicken patty sandwich,Burger,686,13,63,1.75,False
+3169,Strawberry Shake,Thick strawberry shake,Beverages,738,11,34,2.29,True
+3170,Filet-O-Fish,Fish fillet sandwich,Burger,406,28,11,8.25,True
+3171,Cheeseburger,Cheesy beef burger,Burger,723,31,30,3.1,False
+3172,Double Cheeseburger,Double beef with cheese,Burger,311,27,25,7.43,False
+3173,Chicken Nuggets,Bite-sized crispy chicken,Snacks,451,5,12,8.76,False
+3174,McFlurry Oreo,Ice cream with Oreo bits,Desserts,512,8,30,7.95,True
+3175,McVeggie,Veggie patty burger,Burger,796,38,58,1.33,False
+3176,Fries,Crispy fries,Sides,748,5,62,6.11,True
+3177,Vanilla Cone,Soft vanilla cone,Desserts,759,12,11,5.65,False
+3178,Cheeseburger,Cheesy beef burger,Burger,382,31,51,5.23,False
+3179,McFlurry Oreo,Ice cream with Oreo bits,Desserts,605,44,62,7.03,True
+3180,McVeggie,Veggie patty burger,Burger,456,12,24,7.38,False
+3181,Iced Coffee,Chilled coffee,Beverages,227,12,39,4.5,False
+3182,Double Cheeseburger,Double beef with cheese,Burger,451,6,22,3.91,False
+3183,Chicken Nuggets,Bite-sized crispy chicken,Snacks,769,18,40,1.26,True
+3184,Veg Wrap,Veg wrap with lettuce,Wraps,652,22,13,1.76,False
+3185,Chicken Nuggets,Bite-sized crispy chicken,Snacks,243,33,41,6.45,False
+3186,Cheeseburger,Cheesy beef burger,Burger,782,22,41,6.5,False
+3187,Fries,Crispy fries,Sides,288,37,43,4.56,True
+3188,Cheeseburger,Cheesy beef burger,Burger,414,30,30,7.77,False
+3189,Fries,Crispy fries,Sides,628,6,18,2.05,False
+3190,Big Mac,Classic burger with beef patties,Burger,719,23,19,4.53,False
+3191,Veg Wrap,Veg wrap with lettuce,Wraps,403,17,52,8.24,True
+3192,Grilled Chicken Salad,Grilled chicken on greens,Salads,549,23,38,3.03,True
+3193,Egg McMuffin,Egg and cheese muffin,Breakfast,434,40,24,8.88,True
+3194,Chicken Nuggets,Bite-sized crispy chicken,Snacks,727,30,17,8.16,True
+3195,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,566,37,48,5.11,True
+3196,Fries,Crispy fries,Sides,244,31,10,3.28,True
+3197,McFlurry Oreo,Ice cream with Oreo bits,Desserts,462,30,32,4.03,True
+3198,McChicken,Crispy chicken patty sandwich,Burger,539,31,56,1.62,True
+3199,Strawberry Shake,Thick strawberry shake,Beverages,718,40,59,4.07,False
+3200,Strawberry Shake,Thick strawberry shake,Beverages,705,19,29,7.94,True
+3201,Grilled Chicken Salad,Grilled chicken on greens,Salads,457,44,42,1.55,False
+3202,Egg McMuffin,Egg and cheese muffin,Breakfast,338,33,46,2.95,False
+3203,Coke,Carbonated beverage,Beverages,350,17,58,2.49,False
+3204,Filet-O-Fish,Fish fillet sandwich,Burger,418,35,54,4.97,True
+3205,Double Cheeseburger,Double beef with cheese,Burger,202,40,23,1.79,True
+3206,Veg Wrap,Veg wrap with lettuce,Wraps,348,10,20,2.91,True
+3207,McSpicy Paneer,Spicy paneer burger,Burger,696,36,66,1.32,True
+3208,McVeggie,Veggie patty burger,Burger,700,27,45,7.93,True
+3209,Egg McMuffin,Egg and cheese muffin,Breakfast,452,41,44,5.55,True
+3210,Iced Coffee,Chilled coffee,Beverages,745,40,66,3.82,False
+3211,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,794,35,36,7.79,False
+3212,McFlurry Oreo,Ice cream with Oreo bits,Desserts,690,30,57,7.16,True
+3213,Grilled Chicken Salad,Grilled chicken on greens,Salads,773,40,30,7.4,True
+3214,McSpicy Paneer,Spicy paneer burger,Burger,427,15,16,8.17,False
+3215,Veg Wrap,Veg wrap with lettuce,Wraps,438,19,57,4.42,True
+3216,Filet-O-Fish,Fish fillet sandwich,Burger,758,32,22,6.1,False
+3217,Apple Pie,Fried apple pie,Desserts,603,29,20,2.46,True
+3218,Double Cheeseburger,Double beef with cheese,Burger,730,19,65,5.88,False
+3219,McVeggie,Veggie patty burger,Burger,221,40,48,6.84,False
+3220,Iced Coffee,Chilled coffee,Beverages,229,32,40,3.37,True
+3221,Coke,Carbonated beverage,Beverages,753,36,38,3.5,False
+3222,Double Cheeseburger,Double beef with cheese,Burger,277,25,38,3.59,True
+3223,Veg Wrap,Veg wrap with lettuce,Wraps,421,9,21,2.57,True
+3224,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,565,8,66,5.32,False
+3225,McVeggie,Veggie patty burger,Burger,647,25,41,4.8,True
+3226,Double Cheeseburger,Double beef with cheese,Burger,339,18,38,7.61,True
+3227,Egg McMuffin,Egg and cheese muffin,Breakfast,391,25,66,3.38,True
+3228,Filet-O-Fish,Fish fillet sandwich,Burger,584,28,46,2.98,False
+3229,Double Cheeseburger,Double beef with cheese,Burger,601,12,30,3.62,True
+3230,Grilled Chicken Salad,Grilled chicken on greens,Salads,559,12,17,3.63,False
+3231,Vanilla Cone,Soft vanilla cone,Desserts,572,45,33,3.37,False
+3232,Egg McMuffin,Egg and cheese muffin,Breakfast,653,45,49,4.03,True
+3233,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,279,11,60,5.62,True
+3234,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,205,26,11,6.61,False
+3235,Filet-O-Fish,Fish fillet sandwich,Burger,535,15,18,1.61,True
+3236,Chicken Nuggets,Bite-sized crispy chicken,Snacks,386,15,50,8.96,False
+3237,McFlurry Oreo,Ice cream with Oreo bits,Desserts,616,27,70,1.36,False
+3238,McSpicy Paneer,Spicy paneer burger,Burger,662,10,58,1.01,True
+3239,Chicken Nuggets,Bite-sized crispy chicken,Snacks,498,24,56,2.18,True
+3240,Big Mac,Classic burger with beef patties,Burger,418,19,29,2.13,True
+3241,Cheeseburger,Cheesy beef burger,Burger,791,12,21,6.94,True
+3242,Fries,Crispy fries,Sides,353,15,68,7.33,False
+3243,McSpicy Paneer,Spicy paneer burger,Burger,409,33,67,7.67,False
+3244,Fries,Crispy fries,Sides,296,10,70,2.85,False
+3245,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,642,5,12,6.86,True
+3246,Filet-O-Fish,Fish fillet sandwich,Burger,471,33,40,1.76,False
+3247,Strawberry Shake,Thick strawberry shake,Beverages,684,34,11,6.42,True
+3248,Iced Coffee,Chilled coffee,Beverages,350,42,33,7.45,False
+3249,Coke,Carbonated beverage,Beverages,740,22,13,2.52,False
+3250,Strawberry Shake,Thick strawberry shake,Beverages,241,35,11,3.76,False
+3251,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,682,7,43,2.68,False
+3252,Double Cheeseburger,Double beef with cheese,Burger,349,18,65,3.94,True
+3253,Filet-O-Fish,Fish fillet sandwich,Burger,743,23,28,6.37,True
+3254,Filet-O-Fish,Fish fillet sandwich,Burger,256,42,15,6.49,True
+3255,Big Mac,Classic burger with beef patties,Burger,424,11,42,2.55,True
+3256,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,603,24,27,1.11,True
+3257,McChicken,Crispy chicken patty sandwich,Burger,597,8,25,3.69,True
+3258,Double Cheeseburger,Double beef with cheese,Burger,781,8,10,3.3,False
+3259,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,724,22,46,7.66,True
+3260,Filet-O-Fish,Fish fillet sandwich,Burger,502,7,22,1.47,True
+3261,Fries,Crispy fries,Sides,522,41,17,5.26,True
+3262,Vanilla Cone,Soft vanilla cone,Desserts,545,38,11,2.09,True
+3263,Iced Coffee,Chilled coffee,Beverages,252,5,10,6.78,True
+3264,Apple Pie,Fried apple pie,Desserts,390,42,30,5.7,False
+3265,Vanilla Cone,Soft vanilla cone,Desserts,475,24,26,5.38,False
+3266,Big Mac,Classic burger with beef patties,Burger,750,36,42,2.94,False
+3267,McChicken,Crispy chicken patty sandwich,Burger,238,24,26,3.84,False
+3268,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,500,34,47,6.88,True
+3269,Egg McMuffin,Egg and cheese muffin,Breakfast,595,6,67,6.91,True
+3270,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,514,34,67,4.85,True
+3271,Veg Wrap,Veg wrap with lettuce,Wraps,526,21,37,3.14,True
+3272,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,202,32,25,4.25,True
+3273,Apple Pie,Fried apple pie,Desserts,757,31,60,8.73,False
+3274,Veg Wrap,Veg wrap with lettuce,Wraps,676,16,20,2.1,False
+3275,Veg Wrap,Veg wrap with lettuce,Wraps,695,19,28,5.4,True
+3276,McVeggie,Veggie patty burger,Burger,676,21,49,2.0,True
+3277,McChicken,Crispy chicken patty sandwich,Burger,299,38,63,2.31,False
+3278,Fries,Crispy fries,Sides,223,45,10,7.29,True
+3279,Veg Wrap,Veg wrap with lettuce,Wraps,296,21,36,2.52,False
+3280,Cheeseburger,Cheesy beef burger,Burger,207,44,19,5.2,False
+3281,Chicken Nuggets,Bite-sized crispy chicken,Snacks,561,35,51,4.98,False
+3282,Cheeseburger,Cheesy beef burger,Burger,596,5,40,6.69,False
+3283,McSpicy Paneer,Spicy paneer burger,Burger,588,21,37,6.22,False
+3284,Apple Pie,Fried apple pie,Desserts,266,34,52,3.55,False
+3285,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,730,37,22,7.53,True
+3286,McFlurry Oreo,Ice cream with Oreo bits,Desserts,560,33,22,5.17,True
+3287,Egg McMuffin,Egg and cheese muffin,Breakfast,428,25,18,6.09,False
+3288,Grilled Chicken Salad,Grilled chicken on greens,Salads,479,17,18,8.89,False
+3289,Grilled Chicken Salad,Grilled chicken on greens,Salads,664,22,59,2.87,True
+3290,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,274,39,62,6.95,True
+3291,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,302,22,13,7.08,True
+3292,Strawberry Shake,Thick strawberry shake,Beverages,664,32,33,5.95,False
+3293,McVeggie,Veggie patty burger,Burger,568,18,34,5.46,False
+3294,Apple Pie,Fried apple pie,Desserts,513,34,64,3.26,False
+3295,McFlurry Oreo,Ice cream with Oreo bits,Desserts,720,28,67,5.0,False
+3296,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,467,27,22,2.66,True
+3297,Coke,Carbonated beverage,Beverages,594,21,46,5.37,True
+3298,McSpicy Paneer,Spicy paneer burger,Burger,249,38,67,2.56,False
+3299,Egg McMuffin,Egg and cheese muffin,Breakfast,671,19,68,8.93,False
+3300,Vanilla Cone,Soft vanilla cone,Desserts,493,34,59,4.36,True
+3301,McFlurry Oreo,Ice cream with Oreo bits,Desserts,524,19,54,8.67,False
+3302,Veg Wrap,Veg wrap with lettuce,Wraps,282,18,49,6.41,False
+3303,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,492,17,33,8.68,False
+3304,Apple Pie,Fried apple pie,Desserts,326,37,31,5.27,True
+3305,Egg McMuffin,Egg and cheese muffin,Breakfast,501,36,15,3.49,False
+3306,Veg Wrap,Veg wrap with lettuce,Wraps,485,28,27,5.25,False
+3307,Fries,Crispy fries,Sides,537,37,67,7.13,True
+3308,Filet-O-Fish,Fish fillet sandwich,Burger,689,18,35,4.88,False
+3309,Grilled Chicken Salad,Grilled chicken on greens,Salads,401,27,32,6.79,False
+3310,McChicken,Crispy chicken patty sandwich,Burger,497,42,17,7.49,True
+3311,Coke,Carbonated beverage,Beverages,258,24,24,3.07,False
+3312,Cheeseburger,Cheesy beef burger,Burger,310,36,62,6.93,True
+3313,Iced Coffee,Chilled coffee,Beverages,216,5,65,3.15,False
+3314,McVeggie,Veggie patty burger,Burger,638,6,18,5.8,False
+3315,Egg McMuffin,Egg and cheese muffin,Breakfast,681,31,42,3.79,True
+3316,Big Mac,Classic burger with beef patties,Burger,350,12,65,3.94,True
+3317,Egg McMuffin,Egg and cheese muffin,Breakfast,263,28,38,7.21,True
+3318,Vanilla Cone,Soft vanilla cone,Desserts,690,38,25,3.28,False
+3319,Cheeseburger,Cheesy beef burger,Burger,595,27,24,6.6,False
+3320,McSpicy Paneer,Spicy paneer burger,Burger,241,25,26,5.15,True
+3321,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,312,18,19,8.88,False
+3322,Coke,Carbonated beverage,Beverages,632,33,48,7.02,False
+3323,Filet-O-Fish,Fish fillet sandwich,Burger,777,37,61,2.5,True
+3324,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,410,25,50,2.28,True
+3325,Iced Coffee,Chilled coffee,Beverages,337,30,35,8.82,False
+3326,Veg Wrap,Veg wrap with lettuce,Wraps,348,19,20,6.02,False
+3327,Cheeseburger,Cheesy beef burger,Burger,749,33,57,5.59,True
+3328,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,440,25,43,7.21,True
+3329,Chicken Nuggets,Bite-sized crispy chicken,Snacks,548,30,61,5.8,False
+3330,Cheeseburger,Cheesy beef burger,Burger,731,25,11,8.73,True
+3331,Apple Pie,Fried apple pie,Desserts,519,34,54,3.42,True
+3332,McFlurry Oreo,Ice cream with Oreo bits,Desserts,419,11,28,1.64,False
+3333,Veg Wrap,Veg wrap with lettuce,Wraps,450,24,30,7.39,True
+3334,Grilled Chicken Salad,Grilled chicken on greens,Salads,588,42,15,4.61,False
+3335,Fries,Crispy fries,Sides,441,42,33,8.81,True
+3336,Double Cheeseburger,Double beef with cheese,Burger,336,14,58,8.25,True
+3337,Apple Pie,Fried apple pie,Desserts,351,34,20,7.85,True
+3338,Grilled Chicken Salad,Grilled chicken on greens,Salads,682,44,60,1.26,False
+3339,McChicken,Crispy chicken patty sandwich,Burger,681,45,51,3.74,False
+3340,Coke,Carbonated beverage,Beverages,565,29,65,1.15,False
+3341,Fries,Crispy fries,Sides,294,45,66,3.3,True
+3342,McChicken,Crispy chicken patty sandwich,Burger,693,24,22,5.63,True
+3343,McSpicy Paneer,Spicy paneer burger,Burger,641,40,49,6.64,True
+3344,Strawberry Shake,Thick strawberry shake,Beverages,679,27,45,2.6,False
+3345,McFlurry Oreo,Ice cream with Oreo bits,Desserts,377,9,20,4.65,True
+3346,Fries,Crispy fries,Sides,689,15,46,4.97,False
+3347,Coke,Carbonated beverage,Beverages,762,22,19,4.26,False
+3348,McVeggie,Veggie patty burger,Burger,546,35,70,4.67,True
+3349,Coke,Carbonated beverage,Beverages,431,6,63,4.89,False
+3350,Iced Coffee,Chilled coffee,Beverages,486,40,17,5.81,True
+3351,McFlurry Oreo,Ice cream with Oreo bits,Desserts,550,40,12,2.75,True
+3352,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,697,7,38,8.08,True
+3353,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,287,27,30,7.2,False
+3354,McSpicy Paneer,Spicy paneer burger,Burger,245,42,44,5.65,False
+3355,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,212,42,24,7.69,False
+3356,McChicken,Crispy chicken patty sandwich,Burger,720,31,59,2.96,False
+3357,Chicken Nuggets,Bite-sized crispy chicken,Snacks,764,6,61,3.42,True
+3358,Egg McMuffin,Egg and cheese muffin,Breakfast,526,27,50,4.01,True
+3359,Egg McMuffin,Egg and cheese muffin,Breakfast,624,41,67,7.43,True
+3360,Chicken Nuggets,Bite-sized crispy chicken,Snacks,535,13,65,2.8,False
+3361,Vanilla Cone,Soft vanilla cone,Desserts,498,45,15,1.99,True
+3362,McSpicy Paneer,Spicy paneer burger,Burger,658,43,39,3.87,False
+3363,McChicken,Crispy chicken patty sandwich,Burger,445,6,38,4.03,False
+3364,Strawberry Shake,Thick strawberry shake,Beverages,371,32,44,6.65,True
+3365,McChicken,Crispy chicken patty sandwich,Burger,252,21,18,1.26,True
+3366,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,429,38,69,2.9,False
+3367,Double Cheeseburger,Double beef with cheese,Burger,710,44,65,1.23,True
+3368,Egg McMuffin,Egg and cheese muffin,Breakfast,440,21,56,1.19,True
+3369,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,346,23,52,8.24,True
+3370,Strawberry Shake,Thick strawberry shake,Beverages,389,36,20,2.42,True
+3371,McChicken,Crispy chicken patty sandwich,Burger,201,41,59,7.38,True
+3372,Apple Pie,Fried apple pie,Desserts,673,9,50,1.64,True
+3373,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,592,20,11,2.8,True
+3374,McVeggie,Veggie patty burger,Burger,386,21,10,2.15,True
+3375,Filet-O-Fish,Fish fillet sandwich,Burger,413,7,32,1.08,True
+3376,Strawberry Shake,Thick strawberry shake,Beverages,419,24,21,6.87,True
+3377,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,659,24,44,1.35,True
+3378,Vanilla Cone,Soft vanilla cone,Desserts,385,34,51,7.89,True
+3379,Cheeseburger,Cheesy beef burger,Burger,737,5,54,7.78,False
+3380,Egg McMuffin,Egg and cheese muffin,Breakfast,458,38,11,4.83,False
+3381,Coke,Carbonated beverage,Beverages,619,15,30,7.84,False
+3382,Filet-O-Fish,Fish fillet sandwich,Burger,551,18,66,5.81,False
+3383,McVeggie,Veggie patty burger,Burger,756,14,14,3.56,False
+3384,McFlurry Oreo,Ice cream with Oreo bits,Desserts,225,20,30,1.5,False
+3385,McFlurry Oreo,Ice cream with Oreo bits,Desserts,617,42,66,8.5,True
+3386,Chicken Nuggets,Bite-sized crispy chicken,Snacks,323,5,34,7.5,False
+3387,McChicken,Crispy chicken patty sandwich,Burger,725,43,15,8.18,False
+3388,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,653,27,45,2.17,False
+3389,Strawberry Shake,Thick strawberry shake,Beverages,415,24,50,4.47,False
+3390,Vanilla Cone,Soft vanilla cone,Desserts,323,24,12,4.61,True
+3391,Apple Pie,Fried apple pie,Desserts,632,8,22,2.35,True
+3392,Vanilla Cone,Soft vanilla cone,Desserts,605,37,30,1.22,True
+3393,Veg Wrap,Veg wrap with lettuce,Wraps,380,17,14,6.3,False
+3394,Veg Wrap,Veg wrap with lettuce,Wraps,459,19,17,3.3,False
+3395,Egg McMuffin,Egg and cheese muffin,Breakfast,483,11,61,7.01,False
+3396,McFlurry Oreo,Ice cream with Oreo bits,Desserts,774,20,63,6.14,True
+3397,McChicken,Crispy chicken patty sandwich,Burger,665,8,29,3.85,True
+3398,Strawberry Shake,Thick strawberry shake,Beverages,532,5,27,3.16,True
+3399,McChicken,Crispy chicken patty sandwich,Burger,776,26,50,7.05,False
+3400,Coke,Carbonated beverage,Beverages,320,41,15,4.35,False
+3401,Fries,Crispy fries,Sides,692,14,25,7.04,False
+3402,Grilled Chicken Salad,Grilled chicken on greens,Salads,243,30,25,3.5,False
+3403,Vanilla Cone,Soft vanilla cone,Desserts,636,16,28,2.51,True
+3404,McSpicy Paneer,Spicy paneer burger,Burger,685,28,28,3.53,True
+3405,Strawberry Shake,Thick strawberry shake,Beverages,495,40,69,2.22,False
+3406,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,312,7,15,7.77,False
+3407,Apple Pie,Fried apple pie,Desserts,638,40,18,8.35,False
+3408,Strawberry Shake,Thick strawberry shake,Beverages,714,26,48,6.87,False
+3409,Coke,Carbonated beverage,Beverages,478,28,37,4.1,False
+3410,Fries,Crispy fries,Sides,688,8,43,7.0,False
+3411,Double Cheeseburger,Double beef with cheese,Burger,772,18,59,6.74,False
+3412,McFlurry Oreo,Ice cream with Oreo bits,Desserts,667,21,56,8.66,True
+3413,Iced Coffee,Chilled coffee,Beverages,463,31,60,3.28,True
+3414,Double Cheeseburger,Double beef with cheese,Burger,638,41,34,6.7,True
+3415,Cheeseburger,Cheesy beef burger,Burger,494,31,39,8.41,False
+3416,Vanilla Cone,Soft vanilla cone,Desserts,350,41,44,3.35,False
+3417,Coke,Carbonated beverage,Beverages,498,17,59,6.8,True
+3418,Chicken Nuggets,Bite-sized crispy chicken,Snacks,236,5,24,4.63,True
+3419,Vanilla Cone,Soft vanilla cone,Desserts,229,45,21,8.92,True
+3420,Filet-O-Fish,Fish fillet sandwich,Burger,655,31,63,4.88,False
+3421,Grilled Chicken Salad,Grilled chicken on greens,Salads,724,17,45,1.72,True
+3422,McVeggie,Veggie patty burger,Burger,591,19,27,1.74,False
+3423,Apple Pie,Fried apple pie,Desserts,639,13,56,1.11,True
+3424,Double Cheeseburger,Double beef with cheese,Burger,771,21,66,3.6,False
+3425,McVeggie,Veggie patty burger,Burger,319,19,37,4.08,False
+3426,McVeggie,Veggie patty burger,Burger,581,19,23,3.02,False
+3427,Coke,Carbonated beverage,Beverages,482,19,61,8.99,True
+3428,Filet-O-Fish,Fish fillet sandwich,Burger,547,31,17,6.58,True
+3429,Double Cheeseburger,Double beef with cheese,Burger,343,36,48,6.39,True
+3430,Coke,Carbonated beverage,Beverages,497,30,38,6.31,False
+3431,Fries,Crispy fries,Sides,368,9,15,3.42,True
+3432,McChicken,Crispy chicken patty sandwich,Burger,589,34,63,5.9,True
+3433,Cheeseburger,Cheesy beef burger,Burger,299,37,14,6.19,False
+3434,Double Cheeseburger,Double beef with cheese,Burger,302,15,36,4.41,False
+3435,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,622,40,14,2.99,False
+3436,Apple Pie,Fried apple pie,Desserts,362,16,63,1.15,True
+3437,McSpicy Paneer,Spicy paneer burger,Burger,438,20,56,4.06,True
+3438,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,686,41,47,2.18,False
+3439,McFlurry Oreo,Ice cream with Oreo bits,Desserts,204,31,43,3.5,False
+3440,Fries,Crispy fries,Sides,466,38,12,7.15,False
+3441,Strawberry Shake,Thick strawberry shake,Beverages,419,27,60,3.15,False
+3442,Egg McMuffin,Egg and cheese muffin,Breakfast,360,16,13,6.35,False
+3443,Double Cheeseburger,Double beef with cheese,Burger,455,14,45,2.44,True
+3444,Fries,Crispy fries,Sides,773,31,12,6.0,True
+3445,McChicken,Crispy chicken patty sandwich,Burger,225,40,43,1.33,True
+3446,Grilled Chicken Salad,Grilled chicken on greens,Salads,708,21,23,3.56,False
+3447,McSpicy Paneer,Spicy paneer burger,Burger,578,42,51,3.68,False
+3448,Veg Wrap,Veg wrap with lettuce,Wraps,720,18,42,3.0,False
+3449,Iced Coffee,Chilled coffee,Beverages,507,39,16,4.4,True
+3450,Egg McMuffin,Egg and cheese muffin,Breakfast,443,9,18,7.93,True
+3451,Apple Pie,Fried apple pie,Desserts,633,12,15,3.91,False
+3452,Grilled Chicken Salad,Grilled chicken on greens,Salads,233,35,30,6.65,True
+3453,Vanilla Cone,Soft vanilla cone,Desserts,387,19,42,6.03,True
+3454,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,694,39,43,2.92,False
+3455,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,212,32,59,7.99,True
+3456,Apple Pie,Fried apple pie,Desserts,763,24,36,2.57,True
+3457,Egg McMuffin,Egg and cheese muffin,Breakfast,567,43,15,8.79,False
+3458,McVeggie,Veggie patty burger,Burger,643,30,13,3.21,True
+3459,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,231,36,48,8.68,True
+3460,Strawberry Shake,Thick strawberry shake,Beverages,256,12,21,8.39,False
+3461,Big Mac,Classic burger with beef patties,Burger,230,20,63,3.53,True
+3462,McFlurry Oreo,Ice cream with Oreo bits,Desserts,363,38,22,5.27,True
+3463,Coke,Carbonated beverage,Beverages,660,9,43,8.94,True
+3464,Double Cheeseburger,Double beef with cheese,Burger,568,18,43,4.81,True
+3465,Apple Pie,Fried apple pie,Desserts,467,45,37,2.55,True
+3466,McVeggie,Veggie patty burger,Burger,202,37,68,3.59,False
+3467,Apple Pie,Fried apple pie,Desserts,261,6,43,1.23,True
+3468,Filet-O-Fish,Fish fillet sandwich,Burger,514,26,32,3.91,False
+3469,McVeggie,Veggie patty burger,Burger,651,38,28,8.6,False
+3470,Chicken Nuggets,Bite-sized crispy chicken,Snacks,496,29,16,3.17,True
+3471,McSpicy Paneer,Spicy paneer burger,Burger,480,7,12,5.02,True
+3472,Egg McMuffin,Egg and cheese muffin,Breakfast,296,42,56,6.52,False
+3473,Iced Coffee,Chilled coffee,Beverages,625,21,26,8.53,True
+3474,Double Cheeseburger,Double beef with cheese,Burger,204,27,35,4.06,True
+3475,McFlurry Oreo,Ice cream with Oreo bits,Desserts,465,41,37,8.68,False
+3476,Chicken Nuggets,Bite-sized crispy chicken,Snacks,450,34,22,4.87,False
+3477,Double Cheeseburger,Double beef with cheese,Burger,217,5,27,8.03,True
+3478,Iced Coffee,Chilled coffee,Beverages,284,42,16,5.95,False
+3479,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,367,22,16,2.66,False
+3480,Apple Pie,Fried apple pie,Desserts,667,9,26,5.57,False
+3481,Grilled Chicken Salad,Grilled chicken on greens,Salads,791,39,29,8.98,False
+3482,Chicken Nuggets,Bite-sized crispy chicken,Snacks,635,15,58,6.47,True
+3483,McChicken,Crispy chicken patty sandwich,Burger,740,32,24,8.05,False
+3484,Chicken Nuggets,Bite-sized crispy chicken,Snacks,296,33,53,4.56,True
+3485,Grilled Chicken Salad,Grilled chicken on greens,Salads,499,41,70,2.84,False
+3486,McVeggie,Veggie patty burger,Burger,585,43,60,3.41,True
+3487,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,437,13,10,5.13,True
+3488,Strawberry Shake,Thick strawberry shake,Beverages,200,34,49,5.68,True
+3489,McChicken,Crispy chicken patty sandwich,Burger,285,23,41,2.76,True
+3490,Cheeseburger,Cheesy beef burger,Burger,589,34,61,5.36,True
+3491,Strawberry Shake,Thick strawberry shake,Beverages,777,9,11,2.78,False
+3492,Apple Pie,Fried apple pie,Desserts,296,18,27,6.26,False
+3493,McVeggie,Veggie patty burger,Burger,583,44,61,2.0,True
+3494,Big Mac,Classic burger with beef patties,Burger,531,33,59,4.37,False
+3495,Veg Wrap,Veg wrap with lettuce,Wraps,539,12,61,8.12,True
+3496,Vanilla Cone,Soft vanilla cone,Desserts,361,42,30,1.66,False
+3497,Egg McMuffin,Egg and cheese muffin,Breakfast,314,25,34,7.35,False
+3498,Egg McMuffin,Egg and cheese muffin,Breakfast,301,22,38,6.17,True
+3499,Big Mac,Classic burger with beef patties,Burger,384,30,59,1.28,True
+3500,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,485,34,36,8.09,False
+3501,Egg McMuffin,Egg and cheese muffin,Breakfast,720,42,32,5.3,True
+3502,McChicken,Crispy chicken patty sandwich,Burger,403,36,25,7.47,True
+3503,Cheeseburger,Cheesy beef burger,Burger,712,35,56,4.1,False
+3504,Filet-O-Fish,Fish fillet sandwich,Burger,390,21,37,2.17,False
+3505,Vanilla Cone,Soft vanilla cone,Desserts,507,12,28,6.4,True
+3506,McVeggie,Veggie patty burger,Burger,330,28,68,4.53,False
+3507,Fries,Crispy fries,Sides,406,35,67,1.09,True
+3508,Iced Coffee,Chilled coffee,Beverages,664,37,69,3.03,False
+3509,Vanilla Cone,Soft vanilla cone,Desserts,554,41,66,4.81,False
+3510,Veg Wrap,Veg wrap with lettuce,Wraps,605,17,68,3.14,True
+3511,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,786,41,36,8.12,False
+3512,McSpicy Paneer,Spicy paneer burger,Burger,610,6,38,4.92,True
+3513,Filet-O-Fish,Fish fillet sandwich,Burger,470,25,30,6.65,False
+3514,Iced Coffee,Chilled coffee,Beverages,730,19,27,5.79,True
+3515,Chicken Nuggets,Bite-sized crispy chicken,Snacks,439,44,50,4.78,False
+3516,Big Mac,Classic burger with beef patties,Burger,640,35,67,7.0,True
+3517,Vanilla Cone,Soft vanilla cone,Desserts,261,6,47,5.74,False
+3518,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,791,21,45,8.09,False
+3519,Filet-O-Fish,Fish fillet sandwich,Burger,661,24,63,8.12,True
+3520,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,453,9,22,8.59,True
+3521,McSpicy Paneer,Spicy paneer burger,Burger,411,29,59,1.02,True
+3522,Iced Coffee,Chilled coffee,Beverages,327,44,31,6.9,False
+3523,McVeggie,Veggie patty burger,Burger,800,29,12,3.01,False
+3524,McSpicy Paneer,Spicy paneer burger,Burger,744,26,19,5.43,True
+3525,Coke,Carbonated beverage,Beverages,582,30,62,5.62,False
+3526,Egg McMuffin,Egg and cheese muffin,Breakfast,276,15,58,2.0,False
+3527,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,594,12,42,6.23,True
+3528,Iced Coffee,Chilled coffee,Beverages,481,15,35,7.05,True
+3529,Veg Wrap,Veg wrap with lettuce,Wraps,444,15,19,6.94,True
+3530,Cheeseburger,Cheesy beef burger,Burger,248,15,20,7.01,True
+3531,Apple Pie,Fried apple pie,Desserts,690,5,59,6.88,False
+3532,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,208,41,28,2.83,False
+3533,Strawberry Shake,Thick strawberry shake,Beverages,740,31,62,2.35,True
+3534,Fries,Crispy fries,Sides,665,16,66,5.26,False
+3535,McSpicy Paneer,Spicy paneer burger,Burger,220,18,41,1.96,False
+3536,Veg Wrap,Veg wrap with lettuce,Wraps,338,29,62,3.38,True
+3537,Big Mac,Classic burger with beef patties,Burger,576,8,36,4.96,False
+3538,Veg Wrap,Veg wrap with lettuce,Wraps,418,13,31,5.08,True
+3539,McVeggie,Veggie patty burger,Burger,760,33,26,1.92,True
+3540,Fries,Crispy fries,Sides,211,8,51,3.42,True
+3541,McFlurry Oreo,Ice cream with Oreo bits,Desserts,717,32,32,8.02,False
+3542,McVeggie,Veggie patty burger,Burger,756,41,61,8.92,False
+3543,Double Cheeseburger,Double beef with cheese,Burger,646,45,69,6.86,True
+3544,McFlurry Oreo,Ice cream with Oreo bits,Desserts,369,25,57,4.66,True
+3545,Coke,Carbonated beverage,Beverages,530,37,41,1.72,True
+3546,Egg McMuffin,Egg and cheese muffin,Breakfast,599,18,67,2.96,False
+3547,Big Mac,Classic burger with beef patties,Burger,632,23,60,7.95,False
+3548,Coke,Carbonated beverage,Beverages,689,6,67,4.29,True
+3549,McVeggie,Veggie patty burger,Burger,592,10,38,4.94,True
+3550,Iced Coffee,Chilled coffee,Beverages,726,35,11,2.38,True
+3551,Iced Coffee,Chilled coffee,Beverages,782,5,58,4.95,False
+3552,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,258,12,68,7.51,False
+3553,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,211,37,28,8.76,False
+3554,Double Cheeseburger,Double beef with cheese,Burger,534,40,26,8.06,False
+3555,Big Mac,Classic burger with beef patties,Burger,455,37,46,4.13,False
+3556,Vanilla Cone,Soft vanilla cone,Desserts,562,29,38,7.77,False
+3557,McFlurry Oreo,Ice cream with Oreo bits,Desserts,438,28,37,5.0,False
+3558,Coke,Carbonated beverage,Beverages,293,9,29,7.13,False
+3559,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,528,31,52,7.62,True
+3560,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,672,8,20,2.73,False
+3561,Grilled Chicken Salad,Grilled chicken on greens,Salads,440,38,67,6.59,True
+3562,Coke,Carbonated beverage,Beverages,255,24,46,8.04,True
+3563,Filet-O-Fish,Fish fillet sandwich,Burger,740,43,54,4.23,False
+3564,Cheeseburger,Cheesy beef burger,Burger,439,10,12,5.5,True
+3565,Coke,Carbonated beverage,Beverages,366,23,39,7.25,False
+3566,Double Cheeseburger,Double beef with cheese,Burger,588,20,26,3.55,False
+3567,Grilled Chicken Salad,Grilled chicken on greens,Salads,319,34,68,2.19,False
+3568,Veg Wrap,Veg wrap with lettuce,Wraps,528,17,53,2.75,False
+3569,Iced Coffee,Chilled coffee,Beverages,751,6,14,6.87,True
+3570,Grilled Chicken Salad,Grilled chicken on greens,Salads,270,22,11,1.07,True
+3571,McFlurry Oreo,Ice cream with Oreo bits,Desserts,567,37,40,3.84,True
+3572,McSpicy Paneer,Spicy paneer burger,Burger,574,44,37,1.02,False
+3573,Vanilla Cone,Soft vanilla cone,Desserts,270,13,11,8.15,False
+3574,Egg McMuffin,Egg and cheese muffin,Breakfast,336,12,27,1.02,True
+3575,Egg McMuffin,Egg and cheese muffin,Breakfast,503,25,65,3.0,False
+3576,Veg Wrap,Veg wrap with lettuce,Wraps,537,32,36,6.04,False
+3577,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,524,10,70,7.2,True
+3578,Grilled Chicken Salad,Grilled chicken on greens,Salads,795,9,67,3.34,False
+3579,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,795,23,52,6.28,False
+3580,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,564,38,19,6.93,True
+3581,Egg McMuffin,Egg and cheese muffin,Breakfast,371,6,60,2.26,True
+3582,Iced Coffee,Chilled coffee,Beverages,373,27,44,5.08,False
+3583,Strawberry Shake,Thick strawberry shake,Beverages,284,30,40,6.77,True
+3584,Filet-O-Fish,Fish fillet sandwich,Burger,685,36,46,7.11,False
+3585,McChicken,Crispy chicken patty sandwich,Burger,380,42,18,2.32,True
+3586,Vanilla Cone,Soft vanilla cone,Desserts,499,7,53,3.56,False
+3587,Big Mac,Classic burger with beef patties,Burger,555,7,52,2.19,False
+3588,Big Mac,Classic burger with beef patties,Burger,286,44,57,4.77,False
+3589,Coke,Carbonated beverage,Beverages,432,22,13,5.64,True
+3590,Iced Coffee,Chilled coffee,Beverages,419,9,47,5.97,True
+3591,Coke,Carbonated beverage,Beverages,421,43,23,2.84,True
+3592,Iced Coffee,Chilled coffee,Beverages,366,37,10,1.68,False
+3593,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,667,21,59,4.23,True
+3594,Strawberry Shake,Thick strawberry shake,Beverages,267,16,65,7.62,True
+3595,McFlurry Oreo,Ice cream with Oreo bits,Desserts,325,14,19,7.58,False
+3596,Fries,Crispy fries,Sides,566,30,65,4.45,False
+3597,McSpicy Paneer,Spicy paneer burger,Burger,768,43,56,2.25,False
+3598,Apple Pie,Fried apple pie,Desserts,334,37,19,3.96,False
+3599,Grilled Chicken Salad,Grilled chicken on greens,Salads,216,39,61,8.86,True
+3600,Cheeseburger,Cheesy beef burger,Burger,615,19,40,1.38,True
+3601,Strawberry Shake,Thick strawberry shake,Beverages,673,18,30,3.4,False
+3602,McSpicy Paneer,Spicy paneer burger,Burger,752,42,29,7.21,False
+3603,Double Cheeseburger,Double beef with cheese,Burger,613,41,43,1.22,False
+3604,Vanilla Cone,Soft vanilla cone,Desserts,645,13,53,3.88,True
+3605,Veg Wrap,Veg wrap with lettuce,Wraps,775,23,20,3.86,False
+3606,Vanilla Cone,Soft vanilla cone,Desserts,516,33,12,8.42,True
+3607,Grilled Chicken Salad,Grilled chicken on greens,Salads,708,20,63,8.09,False
+3608,Strawberry Shake,Thick strawberry shake,Beverages,505,28,70,3.86,False
+3609,Chicken Nuggets,Bite-sized crispy chicken,Snacks,403,32,37,6.27,False
+3610,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,678,24,16,5.24,False
+3611,Grilled Chicken Salad,Grilled chicken on greens,Salads,376,40,51,5.03,False
+3612,McFlurry Oreo,Ice cream with Oreo bits,Desserts,207,21,46,1.54,False
+3613,Big Mac,Classic burger with beef patties,Burger,331,28,38,6.59,True
+3614,Coke,Carbonated beverage,Beverages,407,43,48,4.54,False
+3615,McFlurry Oreo,Ice cream with Oreo bits,Desserts,629,6,47,2.28,True
+3616,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,377,31,59,6.17,False
+3617,Vanilla Cone,Soft vanilla cone,Desserts,354,38,31,6.44,False
+3618,Strawberry Shake,Thick strawberry shake,Beverages,504,32,33,4.79,False
+3619,Fries,Crispy fries,Sides,691,42,61,4.55,True
+3620,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,463,9,39,7.76,False
+3621,Iced Coffee,Chilled coffee,Beverages,267,41,25,6.28,True
+3622,Strawberry Shake,Thick strawberry shake,Beverages,510,10,68,4.26,False
+3623,McVeggie,Veggie patty burger,Burger,794,21,58,1.81,False
+3624,Egg McMuffin,Egg and cheese muffin,Breakfast,711,21,26,3.43,True
+3625,Grilled Chicken Salad,Grilled chicken on greens,Salads,799,21,27,3.58,False
+3626,Strawberry Shake,Thick strawberry shake,Beverages,640,39,21,1.63,True
+3627,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,363,31,50,3.41,True
+3628,Strawberry Shake,Thick strawberry shake,Beverages,515,39,25,7.11,False
+3629,Vanilla Cone,Soft vanilla cone,Desserts,572,14,16,5.28,True
+3630,Strawberry Shake,Thick strawberry shake,Beverages,620,9,60,2.67,True
+3631,Vanilla Cone,Soft vanilla cone,Desserts,334,11,20,6.38,True
+3632,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,422,15,69,1.85,True
+3633,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,246,16,52,5.07,True
+3634,McSpicy Paneer,Spicy paneer burger,Burger,276,37,70,3.58,False
+3635,Apple Pie,Fried apple pie,Desserts,502,43,62,3.14,False
+3636,Chicken Nuggets,Bite-sized crispy chicken,Snacks,539,37,48,7.98,False
+3637,Double Cheeseburger,Double beef with cheese,Burger,432,37,17,5.39,True
+3638,Filet-O-Fish,Fish fillet sandwich,Burger,417,40,16,2.3,True
+3639,Iced Coffee,Chilled coffee,Beverages,683,22,40,5.37,False
+3640,Filet-O-Fish,Fish fillet sandwich,Burger,453,23,34,2.76,False
+3641,Strawberry Shake,Thick strawberry shake,Beverages,646,15,27,5.7,True
+3642,Veg Wrap,Veg wrap with lettuce,Wraps,768,11,70,4.38,False
+3643,Apple Pie,Fried apple pie,Desserts,683,19,58,3.55,True
+3644,Chicken Nuggets,Bite-sized crispy chicken,Snacks,501,13,68,6.37,True
+3645,Coke,Carbonated beverage,Beverages,797,43,21,4.34,True
+3646,Cheeseburger,Cheesy beef burger,Burger,638,7,36,4.03,False
+3647,Grilled Chicken Salad,Grilled chicken on greens,Salads,605,15,31,5.79,False
+3648,McChicken,Crispy chicken patty sandwich,Burger,332,11,24,3.16,False
+3649,Double Cheeseburger,Double beef with cheese,Burger,389,13,44,8.47,True
+3650,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,267,36,29,4.15,False
+3651,Iced Coffee,Chilled coffee,Beverages,731,34,11,7.02,True
+3652,Iced Coffee,Chilled coffee,Beverages,639,39,62,6.95,False
+3653,Cheeseburger,Cheesy beef burger,Burger,773,20,20,1.78,False
+3654,Big Mac,Classic burger with beef patties,Burger,323,36,24,6.65,True
+3655,Egg McMuffin,Egg and cheese muffin,Breakfast,696,6,49,5.52,True
+3656,McFlurry Oreo,Ice cream with Oreo bits,Desserts,383,43,35,4.76,True
+3657,Coke,Carbonated beverage,Beverages,273,11,65,4.35,False
+3658,Egg McMuffin,Egg and cheese muffin,Breakfast,225,42,25,6.22,False
+3659,Chicken Nuggets,Bite-sized crispy chicken,Snacks,632,27,55,7.07,True
+3660,Cheeseburger,Cheesy beef burger,Burger,456,17,16,2.09,True
+3661,Apple Pie,Fried apple pie,Desserts,612,38,33,2.17,False
+3662,McFlurry Oreo,Ice cream with Oreo bits,Desserts,490,16,11,8.02,True
+3663,McChicken,Crispy chicken patty sandwich,Burger,596,28,57,7.32,True
+3664,Coke,Carbonated beverage,Beverages,751,17,11,4.48,False
+3665,Vanilla Cone,Soft vanilla cone,Desserts,411,11,35,5.09,False
+3666,Cheeseburger,Cheesy beef burger,Burger,463,45,16,5.33,False
+3667,Fries,Crispy fries,Sides,429,7,12,6.01,False
+3668,Apple Pie,Fried apple pie,Desserts,601,26,69,2.85,True
+3669,Strawberry Shake,Thick strawberry shake,Beverages,772,11,26,6.47,True
+3670,Chicken Nuggets,Bite-sized crispy chicken,Snacks,334,22,34,7.72,False
+3671,McChicken,Crispy chicken patty sandwich,Burger,610,17,65,3.88,False
+3672,McChicken,Crispy chicken patty sandwich,Burger,427,45,18,4.11,False
+3673,Filet-O-Fish,Fish fillet sandwich,Burger,275,43,32,1.49,False
+3674,Filet-O-Fish,Fish fillet sandwich,Burger,596,34,51,3.64,True
+3675,Vanilla Cone,Soft vanilla cone,Desserts,772,36,33,6.5,True
+3676,Iced Coffee,Chilled coffee,Beverages,559,44,47,3.86,True
+3677,Grilled Chicken Salad,Grilled chicken on greens,Salads,669,45,29,4.51,True
+3678,Big Mac,Classic burger with beef patties,Burger,609,22,15,5.63,True
+3679,Big Mac,Classic burger with beef patties,Burger,241,12,27,3.2,True
+3680,Apple Pie,Fried apple pie,Desserts,647,37,30,6.29,False
+3681,Filet-O-Fish,Fish fillet sandwich,Burger,210,43,69,7.84,False
+3682,Veg Wrap,Veg wrap with lettuce,Wraps,571,30,26,4.41,False
+3683,Iced Coffee,Chilled coffee,Beverages,381,30,40,7.86,True
+3684,Chicken Nuggets,Bite-sized crispy chicken,Snacks,216,44,40,5.21,False
+3685,Chicken Nuggets,Bite-sized crispy chicken,Snacks,642,27,16,2.94,False
+3686,McChicken,Crispy chicken patty sandwich,Burger,641,42,68,2.84,True
+3687,Grilled Chicken Salad,Grilled chicken on greens,Salads,469,8,58,7.58,True
+3688,Grilled Chicken Salad,Grilled chicken on greens,Salads,340,10,57,7.31,False
+3689,Apple Pie,Fried apple pie,Desserts,305,32,10,1.19,False
+3690,Fries,Crispy fries,Sides,575,33,34,4.09,True
+3691,Double Cheeseburger,Double beef with cheese,Burger,748,45,55,3.1,True
+3692,Fries,Crispy fries,Sides,376,17,68,2.73,False
+3693,Cheeseburger,Cheesy beef burger,Burger,388,7,20,3.13,False
+3694,Egg McMuffin,Egg and cheese muffin,Breakfast,675,31,23,5.23,False
+3695,Strawberry Shake,Thick strawberry shake,Beverages,263,38,40,4.84,True
+3696,McChicken,Crispy chicken patty sandwich,Burger,361,15,20,5.24,True
+3697,Coke,Carbonated beverage,Beverages,275,6,70,8.84,False
+3698,Fries,Crispy fries,Sides,327,43,35,5.02,True
+3699,Grilled Chicken Salad,Grilled chicken on greens,Salads,355,18,12,4.89,True
+3700,Apple Pie,Fried apple pie,Desserts,736,42,34,4.22,True
+3701,Strawberry Shake,Thick strawberry shake,Beverages,404,33,18,8.19,False
+3702,McSpicy Paneer,Spicy paneer burger,Burger,200,36,34,5.26,False
+3703,Double Cheeseburger,Double beef with cheese,Burger,553,11,24,2.28,False
+3704,Big Mac,Classic burger with beef patties,Burger,778,24,29,8.42,False
+3705,Egg McMuffin,Egg and cheese muffin,Breakfast,707,41,29,6.53,True
+3706,Double Cheeseburger,Double beef with cheese,Burger,705,27,16,2.79,True
+3707,Strawberry Shake,Thick strawberry shake,Beverages,709,15,45,7.72,False
+3708,Veg Wrap,Veg wrap with lettuce,Wraps,338,21,38,2.92,False
+3709,Fries,Crispy fries,Sides,330,20,32,4.55,True
+3710,McVeggie,Veggie patty burger,Burger,332,26,47,5.07,True
+3711,Apple Pie,Fried apple pie,Desserts,594,27,46,4.13,True
+3712,Apple Pie,Fried apple pie,Desserts,220,27,38,1.56,True
+3713,Vanilla Cone,Soft vanilla cone,Desserts,215,34,61,8.7,False
+3714,Cheeseburger,Cheesy beef burger,Burger,495,42,16,2.95,True
+3715,Iced Coffee,Chilled coffee,Beverages,640,44,39,1.51,False
+3716,Veg Wrap,Veg wrap with lettuce,Wraps,719,33,62,1.4,True
+3717,McVeggie,Veggie patty burger,Burger,643,43,57,8.18,False
+3718,Filet-O-Fish,Fish fillet sandwich,Burger,305,43,50,8.37,True
+3719,Iced Coffee,Chilled coffee,Beverages,751,8,37,6.2,False
+3720,Strawberry Shake,Thick strawberry shake,Beverages,335,40,45,6.46,False
+3721,McVeggie,Veggie patty burger,Burger,634,38,55,6.67,True
+3722,Fries,Crispy fries,Sides,640,27,20,5.75,True
+3723,Coke,Carbonated beverage,Beverages,331,10,29,6.47,False
+3724,Big Mac,Classic burger with beef patties,Burger,705,30,48,4.63,True
+3725,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,328,19,61,8.48,True
+3726,Fries,Crispy fries,Sides,250,9,61,8.09,False
+3727,Fries,Crispy fries,Sides,677,27,35,2.44,False
+3728,McSpicy Paneer,Spicy paneer burger,Burger,523,38,68,8.92,False
+3729,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,555,6,47,3.32,False
+3730,Grilled Chicken Salad,Grilled chicken on greens,Salads,572,7,37,1.12,True
+3731,Egg McMuffin,Egg and cheese muffin,Breakfast,242,31,60,3.47,True
+3732,Apple Pie,Fried apple pie,Desserts,789,42,55,2.71,False
+3733,McFlurry Oreo,Ice cream with Oreo bits,Desserts,357,28,27,1.69,True
+3734,Vanilla Cone,Soft vanilla cone,Desserts,549,33,38,8.09,False
+3735,McChicken,Crispy chicken patty sandwich,Burger,483,18,20,6.63,True
+3736,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,695,9,45,1.9,True
+3737,McFlurry Oreo,Ice cream with Oreo bits,Desserts,254,39,31,4.47,True
+3738,McSpicy Paneer,Spicy paneer burger,Burger,262,44,54,8.08,False
+3739,McChicken,Crispy chicken patty sandwich,Burger,277,24,49,1.46,False
+3740,Strawberry Shake,Thick strawberry shake,Beverages,249,40,25,2.45,False
+3741,Apple Pie,Fried apple pie,Desserts,555,39,41,6.83,False
+3742,Fries,Crispy fries,Sides,259,35,32,3.61,False
+3743,Cheeseburger,Cheesy beef burger,Burger,603,35,16,4.43,False
+3744,McSpicy Paneer,Spicy paneer burger,Burger,613,13,51,2.58,True
+3745,Coke,Carbonated beverage,Beverages,332,38,49,8.84,False
+3746,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,249,43,55,5.72,True
+3747,Iced Coffee,Chilled coffee,Beverages,685,23,49,2.0,False
+3748,Big Mac,Classic burger with beef patties,Burger,675,21,23,4.11,True
+3749,Cheeseburger,Cheesy beef burger,Burger,245,36,28,6.19,False
+3750,McSpicy Paneer,Spicy paneer burger,Burger,448,27,66,6.98,False
+3751,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,621,11,49,3.24,True
+3752,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,727,44,15,4.08,False
+3753,Apple Pie,Fried apple pie,Desserts,722,6,51,8.01,True
+3754,Double Cheeseburger,Double beef with cheese,Burger,787,14,20,3.71,False
+3755,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,575,28,17,1.36,True
+3756,McFlurry Oreo,Ice cream with Oreo bits,Desserts,530,25,54,8.11,False
+3757,Chicken Nuggets,Bite-sized crispy chicken,Snacks,333,9,37,7.39,True
+3758,McSpicy Paneer,Spicy paneer burger,Burger,768,16,58,4.0,False
+3759,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,474,14,54,4.65,False
+3760,Grilled Chicken Salad,Grilled chicken on greens,Salads,550,41,50,1.7,False
+3761,Fries,Crispy fries,Sides,430,34,52,6.02,False
+3762,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,772,5,16,2.7,True
+3763,McChicken,Crispy chicken patty sandwich,Burger,305,42,29,5.42,True
+3764,Cheeseburger,Cheesy beef burger,Burger,266,14,14,2.34,False
+3765,Veg Wrap,Veg wrap with lettuce,Wraps,247,7,40,7.74,True
+3766,Apple Pie,Fried apple pie,Desserts,300,30,25,2.64,False
+3767,Chicken Nuggets,Bite-sized crispy chicken,Snacks,633,16,23,6.85,False
+3768,Veg Wrap,Veg wrap with lettuce,Wraps,205,9,16,6.6,True
+3769,Coke,Carbonated beverage,Beverages,202,44,10,8.36,False
+3770,McChicken,Crispy chicken patty sandwich,Burger,218,23,44,8.57,False
+3771,Egg McMuffin,Egg and cheese muffin,Breakfast,800,13,35,5.27,True
+3772,Iced Coffee,Chilled coffee,Beverages,656,17,66,6.35,True
+3773,Cheeseburger,Cheesy beef burger,Burger,792,12,31,4.71,False
+3774,Filet-O-Fish,Fish fillet sandwich,Burger,729,38,43,6.87,False
+3775,Strawberry Shake,Thick strawberry shake,Beverages,514,17,68,5.73,True
+3776,Strawberry Shake,Thick strawberry shake,Beverages,254,6,52,3.63,True
+3777,Strawberry Shake,Thick strawberry shake,Beverages,258,8,25,3.23,True
+3778,Filet-O-Fish,Fish fillet sandwich,Burger,586,30,26,4.86,True
+3779,McChicken,Crispy chicken patty sandwich,Burger,767,26,14,8.99,False
+3780,Apple Pie,Fried apple pie,Desserts,774,8,36,3.69,False
+3781,Veg Wrap,Veg wrap with lettuce,Wraps,401,7,51,5.43,False
+3782,Fries,Crispy fries,Sides,244,29,28,6.13,False
+3783,Veg Wrap,Veg wrap with lettuce,Wraps,743,37,14,5.3,False
+3784,Veg Wrap,Veg wrap with lettuce,Wraps,570,42,28,3.37,True
+3785,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,643,36,20,1.09,False
+3786,McChicken,Crispy chicken patty sandwich,Burger,539,10,53,1.08,True
+3787,McChicken,Crispy chicken patty sandwich,Burger,766,23,23,5.65,True
+3788,McFlurry Oreo,Ice cream with Oreo bits,Desserts,772,34,16,4.93,True
+3789,Coke,Carbonated beverage,Beverages,740,22,51,3.39,True
+3790,Strawberry Shake,Thick strawberry shake,Beverages,472,5,15,7.0,True
+3791,Strawberry Shake,Thick strawberry shake,Beverages,222,38,59,4.32,True
+3792,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,659,41,14,1.38,True
+3793,Fries,Crispy fries,Sides,662,22,33,7.71,False
+3794,McVeggie,Veggie patty burger,Burger,288,15,68,1.24,False
+3795,Cheeseburger,Cheesy beef burger,Burger,323,37,11,2.96,True
+3796,Chicken Nuggets,Bite-sized crispy chicken,Snacks,616,23,53,7.21,False
+3797,McVeggie,Veggie patty burger,Burger,797,6,22,6.9,False
+3798,Fries,Crispy fries,Sides,288,20,15,1.9,False
+3799,McFlurry Oreo,Ice cream with Oreo bits,Desserts,798,18,40,6.43,True
+3800,Cheeseburger,Cheesy beef burger,Burger,455,19,33,8.8,False
+3801,Iced Coffee,Chilled coffee,Beverages,786,43,62,3.89,False
+3802,Iced Coffee,Chilled coffee,Beverages,785,16,41,2.19,True
+3803,Veg Wrap,Veg wrap with lettuce,Wraps,737,39,11,7.15,True
+3804,McSpicy Paneer,Spicy paneer burger,Burger,399,41,29,4.25,False
+3805,Apple Pie,Fried apple pie,Desserts,289,13,30,8.17,True
+3806,Big Mac,Classic burger with beef patties,Burger,598,13,27,4.52,True
+3807,McSpicy Paneer,Spicy paneer burger,Burger,790,8,63,5.28,True
+3808,Vanilla Cone,Soft vanilla cone,Desserts,322,30,51,6.84,False
+3809,McFlurry Oreo,Ice cream with Oreo bits,Desserts,725,20,70,1.25,False
+3810,Chicken Nuggets,Bite-sized crispy chicken,Snacks,715,15,39,3.32,True
+3811,Coke,Carbonated beverage,Beverages,714,26,10,6.87,True
+3812,Iced Coffee,Chilled coffee,Beverages,562,33,68,3.45,False
+3813,Fries,Crispy fries,Sides,680,20,33,7.25,True
+3814,Fries,Crispy fries,Sides,741,38,34,2.94,True
+3815,McFlurry Oreo,Ice cream with Oreo bits,Desserts,303,12,22,3.64,False
+3816,McFlurry Oreo,Ice cream with Oreo bits,Desserts,721,30,56,2.89,False
+3817,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,734,18,55,1.67,True
+3818,Fries,Crispy fries,Sides,269,40,36,1.23,False
+3819,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,450,35,11,5.14,False
+3820,Egg McMuffin,Egg and cheese muffin,Breakfast,217,13,57,3.71,False
+3821,Iced Coffee,Chilled coffee,Beverages,246,12,61,3.57,True
+3822,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,762,26,69,7.44,False
+3823,Strawberry Shake,Thick strawberry shake,Beverages,654,19,41,4.2,True
+3824,McSpicy Paneer,Spicy paneer burger,Burger,784,43,38,2.15,True
+3825,Veg Wrap,Veg wrap with lettuce,Wraps,243,17,44,5.93,False
+3826,Chicken Nuggets,Bite-sized crispy chicken,Snacks,610,22,37,7.72,False
+3827,Grilled Chicken Salad,Grilled chicken on greens,Salads,625,15,46,4.58,False
+3828,Iced Coffee,Chilled coffee,Beverages,787,11,45,4.13,False
+3829,McChicken,Crispy chicken patty sandwich,Burger,379,43,23,8.74,False
+3830,Big Mac,Classic burger with beef patties,Burger,329,25,54,2.16,True
+3831,McChicken,Crispy chicken patty sandwich,Burger,771,27,27,8.46,False
+3832,Cheeseburger,Cheesy beef burger,Burger,764,26,54,3.88,False
+3833,Iced Coffee,Chilled coffee,Beverages,461,12,41,7.64,False
+3834,Iced Coffee,Chilled coffee,Beverages,783,14,38,8.27,False
+3835,McVeggie,Veggie patty burger,Burger,462,12,47,3.49,True
+3836,Coke,Carbonated beverage,Beverages,735,39,69,2.9,False
+3837,McChicken,Crispy chicken patty sandwich,Burger,551,17,29,4.84,False
+3838,Grilled Chicken Salad,Grilled chicken on greens,Salads,777,39,64,1.41,True
+3839,Fries,Crispy fries,Sides,269,25,27,4.48,True
+3840,McSpicy Paneer,Spicy paneer burger,Burger,776,5,23,7.76,True
+3841,Iced Coffee,Chilled coffee,Beverages,266,10,70,4.08,False
+3842,Veg Wrap,Veg wrap with lettuce,Wraps,691,43,40,4.73,True
+3843,Vanilla Cone,Soft vanilla cone,Desserts,375,36,43,3.17,False
+3844,Egg McMuffin,Egg and cheese muffin,Breakfast,456,41,25,8.97,False
+3845,Strawberry Shake,Thick strawberry shake,Beverages,478,25,56,1.2,True
+3846,Veg Wrap,Veg wrap with lettuce,Wraps,703,27,61,2.98,False
+3847,Grilled Chicken Salad,Grilled chicken on greens,Salads,582,39,45,7.15,False
+3848,McSpicy Paneer,Spicy paneer burger,Burger,455,38,21,2.61,True
+3849,Cheeseburger,Cheesy beef burger,Burger,366,23,48,3.22,True
+3850,Cheeseburger,Cheesy beef burger,Burger,379,30,29,7.31,True
+3851,Big Mac,Classic burger with beef patties,Burger,337,32,50,7.18,False
+3852,McVeggie,Veggie patty burger,Burger,527,20,32,8.4,False
+3853,McFlurry Oreo,Ice cream with Oreo bits,Desserts,351,20,15,8.68,False
+3854,Vanilla Cone,Soft vanilla cone,Desserts,462,29,47,6.24,True
+3855,Fries,Crispy fries,Sides,648,19,33,8.38,False
+3856,Grilled Chicken Salad,Grilled chicken on greens,Salads,265,23,11,1.55,False
+3857,Big Mac,Classic burger with beef patties,Burger,497,23,26,3.2,False
+3858,Strawberry Shake,Thick strawberry shake,Beverages,610,41,36,1.1,False
+3859,McVeggie,Veggie patty burger,Burger,477,7,61,4.29,False
+3860,Double Cheeseburger,Double beef with cheese,Burger,283,18,57,6.34,False
+3861,McChicken,Crispy chicken patty sandwich,Burger,300,15,70,1.6,False
+3862,Apple Pie,Fried apple pie,Desserts,767,28,52,5.66,False
+3863,Grilled Chicken Salad,Grilled chicken on greens,Salads,467,6,46,5.78,True
+3864,Vanilla Cone,Soft vanilla cone,Desserts,232,6,20,7.77,False
+3865,Vanilla Cone,Soft vanilla cone,Desserts,402,25,34,6.97,False
+3866,Fries,Crispy fries,Sides,503,6,37,1.11,True
+3867,Cheeseburger,Cheesy beef burger,Burger,311,12,51,8.78,True
+3868,Iced Coffee,Chilled coffee,Beverages,679,42,17,4.47,True
+3869,Coke,Carbonated beverage,Beverages,767,28,67,1.28,True
+3870,Vanilla Cone,Soft vanilla cone,Desserts,751,33,47,2.64,True
+3871,Fries,Crispy fries,Sides,682,17,32,7.11,False
+3872,Iced Coffee,Chilled coffee,Beverages,558,19,27,6.48,False
+3873,Iced Coffee,Chilled coffee,Beverages,628,16,21,3.25,False
+3874,Big Mac,Classic burger with beef patties,Burger,729,29,30,1.37,True
+3875,Veg Wrap,Veg wrap with lettuce,Wraps,439,42,13,2.45,True
+3876,Big Mac,Classic burger with beef patties,Burger,555,33,26,3.8,False
+3877,Cheeseburger,Cheesy beef burger,Burger,615,30,68,2.38,False
+3878,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,317,31,68,7.59,True
+3879,Veg Wrap,Veg wrap with lettuce,Wraps,706,24,23,5.18,True
+3880,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,697,10,69,3.9,False
+3881,McSpicy Paneer,Spicy paneer burger,Burger,455,41,46,6.16,True
+3882,Cheeseburger,Cheesy beef burger,Burger,701,30,23,3.92,False
+3883,Big Mac,Classic burger with beef patties,Burger,778,21,11,6.39,False
+3884,Vanilla Cone,Soft vanilla cone,Desserts,553,33,62,5.71,False
+3885,Big Mac,Classic burger with beef patties,Burger,217,12,70,5.27,False
+3886,Cheeseburger,Cheesy beef burger,Burger,328,28,30,2.98,True
+3887,Coke,Carbonated beverage,Beverages,782,33,13,4.21,False
+3888,McVeggie,Veggie patty burger,Burger,368,20,62,6.19,False
+3889,Coke,Carbonated beverage,Beverages,564,42,56,8.57,False
+3890,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,325,14,35,3.77,False
+3891,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,784,29,15,6.72,False
+3892,Strawberry Shake,Thick strawberry shake,Beverages,221,32,10,1.34,False
+3893,Vanilla Cone,Soft vanilla cone,Desserts,438,30,34,4.72,False
+3894,McFlurry Oreo,Ice cream with Oreo bits,Desserts,605,30,30,8.57,True
+3895,Vanilla Cone,Soft vanilla cone,Desserts,495,34,43,8.05,False
+3896,Grilled Chicken Salad,Grilled chicken on greens,Salads,487,24,31,7.43,False
+3897,Grilled Chicken Salad,Grilled chicken on greens,Salads,490,10,47,8.42,True
+3898,Coke,Carbonated beverage,Beverages,743,33,35,2.34,True
+3899,Big Mac,Classic burger with beef patties,Burger,298,18,19,1.89,False
+3900,Fries,Crispy fries,Sides,317,10,10,7.34,False
+3901,Coke,Carbonated beverage,Beverages,282,39,65,5.43,True
+3902,McSpicy Paneer,Spicy paneer burger,Burger,350,41,54,2.05,False
+3903,Veg Wrap,Veg wrap with lettuce,Wraps,296,26,56,4.44,True
+3904,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,364,30,69,8.71,True
+3905,Double Cheeseburger,Double beef with cheese,Burger,520,10,22,3.49,False
+3906,Double Cheeseburger,Double beef with cheese,Burger,782,38,41,2.8,False
+3907,Iced Coffee,Chilled coffee,Beverages,330,30,34,8.57,True
+3908,Fries,Crispy fries,Sides,576,43,57,3.75,True
+3909,Strawberry Shake,Thick strawberry shake,Beverages,785,35,52,2.9,True
+3910,Iced Coffee,Chilled coffee,Beverages,464,25,50,4.41,True
+3911,Big Mac,Classic burger with beef patties,Burger,698,33,51,5.07,True
+3912,Filet-O-Fish,Fish fillet sandwich,Burger,589,25,11,6.75,False
+3913,Iced Coffee,Chilled coffee,Beverages,452,14,62,1.44,False
+3914,Veg Wrap,Veg wrap with lettuce,Wraps,207,27,48,5.26,False
+3915,McVeggie,Veggie patty burger,Burger,613,8,41,7.36,True
+3916,Filet-O-Fish,Fish fillet sandwich,Burger,379,29,41,3.6,False
+3917,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,254,11,53,8.0,False
+3918,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,656,39,39,2.48,True
+3919,Veg Wrap,Veg wrap with lettuce,Wraps,608,7,34,5.68,False
+3920,McSpicy Paneer,Spicy paneer burger,Burger,655,38,56,6.42,False
+3921,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,658,39,43,8.09,True
+3922,Chicken Nuggets,Bite-sized crispy chicken,Snacks,342,5,48,8.59,False
+3923,Chicken Nuggets,Bite-sized crispy chicken,Snacks,231,30,54,5.01,True
+3924,Veg Wrap,Veg wrap with lettuce,Wraps,329,16,27,1.82,False
+3925,Veg Wrap,Veg wrap with lettuce,Wraps,612,44,20,7.04,False
+3926,Strawberry Shake,Thick strawberry shake,Beverages,778,7,34,3.27,True
+3927,Egg McMuffin,Egg and cheese muffin,Breakfast,742,44,43,8.97,False
+3928,Filet-O-Fish,Fish fillet sandwich,Burger,228,16,23,7.13,True
+3929,Veg Wrap,Veg wrap with lettuce,Wraps,592,39,55,2.08,False
+3930,Coke,Carbonated beverage,Beverages,713,14,18,7.08,True
+3931,Apple Pie,Fried apple pie,Desserts,415,45,39,8.62,True
+3932,McVeggie,Veggie patty burger,Burger,788,9,21,2.71,False
+3933,Fries,Crispy fries,Sides,214,42,46,8.23,False
+3934,Vanilla Cone,Soft vanilla cone,Desserts,261,43,42,5.49,False
+3935,Iced Coffee,Chilled coffee,Beverages,689,34,56,6.75,False
+3936,McChicken,Crispy chicken patty sandwich,Burger,623,26,35,3.62,True
+3937,Vanilla Cone,Soft vanilla cone,Desserts,697,27,39,1.41,False
+3938,Double Cheeseburger,Double beef with cheese,Burger,487,41,57,5.17,False
+3939,Egg McMuffin,Egg and cheese muffin,Breakfast,412,20,18,7.9,True
+3940,Coke,Carbonated beverage,Beverages,698,26,39,5.14,False
+3941,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,382,38,16,2.41,False
+3942,Grilled Chicken Salad,Grilled chicken on greens,Salads,480,21,42,7.09,False
+3943,Apple Pie,Fried apple pie,Desserts,350,30,62,6.63,True
+3944,Apple Pie,Fried apple pie,Desserts,438,44,47,8.35,True
+3945,Double Cheeseburger,Double beef with cheese,Burger,442,33,70,2.37,True
+3946,Big Mac,Classic burger with beef patties,Burger,511,30,12,7.7,True
+3947,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,307,5,59,6.76,False
+3948,Veg Wrap,Veg wrap with lettuce,Wraps,786,34,60,3.03,True
+3949,Veg Wrap,Veg wrap with lettuce,Wraps,695,26,33,8.83,True
+3950,Iced Coffee,Chilled coffee,Beverages,720,34,12,4.83,False
+3951,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,696,9,48,3.24,False
+3952,Veg Wrap,Veg wrap with lettuce,Wraps,692,34,54,3.1,True
+3953,McChicken,Crispy chicken patty sandwich,Burger,545,11,52,2.29,True
+3954,Apple Pie,Fried apple pie,Desserts,623,17,44,3.56,True
+3955,Apple Pie,Fried apple pie,Desserts,676,26,26,4.55,False
+3956,Grilled Chicken Salad,Grilled chicken on greens,Salads,286,19,61,3.66,True
+3957,Big Mac,Classic burger with beef patties,Burger,649,32,43,2.55,True
+3958,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,279,45,58,1.79,True
+3959,Iced Coffee,Chilled coffee,Beverages,429,28,57,1.95,True
+3960,Apple Pie,Fried apple pie,Desserts,508,28,41,4.14,False
+3961,McVeggie,Veggie patty burger,Burger,590,8,56,5.7,True
+3962,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,653,42,38,2.92,True
+3963,Big Mac,Classic burger with beef patties,Burger,384,42,47,5.54,True
+3964,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,233,44,68,8.18,False
+3965,Egg McMuffin,Egg and cheese muffin,Breakfast,712,16,43,2.94,True
+3966,Vanilla Cone,Soft vanilla cone,Desserts,323,11,13,4.36,False
+3967,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,562,28,40,4.53,False
+3968,Grilled Chicken Salad,Grilled chicken on greens,Salads,676,34,63,4.8,True
+3969,Vanilla Cone,Soft vanilla cone,Desserts,471,10,15,8.86,True
+3970,Hot Fudge Sundae,Vanilla ice cream with hot fudge,Desserts,281,36,65,4.93,True
+3971,Vanilla Cone,Soft vanilla cone,Desserts,785,28,68,8.05,False
+3972,Strawberry Shake,Thick strawberry shake,Beverages,585,20,66,7.06,True
+3973,Double Cheeseburger,Double beef with cheese,Burger,435,39,30,8.77,True
+3974,McSpicy Paneer,Spicy paneer burger,Burger,375,10,30,2.41,False
+3975,Iced Coffee,Chilled coffee,Beverages,412,40,29,6.37,True
+3976,Double Cheeseburger,Double beef with cheese,Burger,781,39,52,3.11,True
+3977,Double Cheeseburger,Double beef with cheese,Burger,739,11,59,5.45,False
+3978,McVeggie,Veggie patty burger,Burger,602,41,26,3.76,False
+3979,Coke,Carbonated beverage,Beverages,690,41,66,2.6,True
+3980,Grilled Chicken Salad,Grilled chicken on greens,Salads,643,5,54,8.33,True
+3981,Iced Coffee,Chilled coffee,Beverages,460,29,18,7.57,True
+3982,Chicken Nuggets,Bite-sized crispy chicken,Snacks,655,40,53,2.38,False
+3983,Double Cheeseburger,Double beef with cheese,Burger,458,25,12,3.68,True
+3984,Veg Wrap,Veg wrap with lettuce,Wraps,644,9,10,1.62,False
+3985,Double Cheeseburger,Double beef with cheese,Burger,234,10,68,4.35,False
+3986,Vanilla Cone,Soft vanilla cone,Desserts,581,26,63,8.48,True
+3987,Veg Wrap,Veg wrap with lettuce,Wraps,294,20,54,8.29,True
+3988,Cheeseburger,Cheesy beef burger,Burger,593,24,29,4.96,True
+3989,Sausage Burrito,Tortilla with sausage and eggs,Breakfast,330,33,33,1.53,True
+3990,Egg McMuffin,Egg and cheese muffin,Breakfast,413,31,61,7.86,False
+3991,Filet-O-Fish,Fish fillet sandwich,Burger,598,41,15,6.55,False
+3992,Double Cheeseburger,Double beef with cheese,Burger,569,37,35,3.62,True
+3993,Big Mac,Classic burger with beef patties,Burger,360,25,55,1.31,True
+3994,Vanilla Cone,Soft vanilla cone,Desserts,272,21,43,3.36,True
+3995,McVeggie,Veggie patty burger,Burger,749,25,52,7.68,False
+3996,Strawberry Shake,Thick strawberry shake,Beverages,589,21,33,2.32,False
+3997,McChicken,Crispy chicken patty sandwich,Burger,479,45,20,4.76,False
+3998,Big Mac,Classic burger with beef patties,Burger,378,30,61,5.98,False
+3999,Strawberry Shake,Thick strawberry shake,Beverages,546,25,13,3.97,False
